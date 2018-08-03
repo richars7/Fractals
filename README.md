@@ -3,4 +3,9 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/fractal/
 
+The basic formula for the Mandelbrot set is:
+
+Z = Z^2 + C
+
+The Mandelbrot set is determined by iterating with this equation.  By iterating, I mean that we start with a value for Z and C. We plug these into the equation to get a new value for Z.  We then plug that value for Z in and get a new Z, and so on.
 
