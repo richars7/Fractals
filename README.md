@@ -9,3 +9,5 @@ Z = Z^2 + C
 
 The Mandelbrot set is determined by iterating with this equation.  By iterating, I mean that we start with a value for Z and C. We plug these into the equation to get a new value for Z.  We then plug that value for Z in and get a new Z, and so on.
 
+
+
